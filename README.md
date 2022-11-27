@@ -1,2 +1,2 @@
-# OSSU-Notes
+# OSSU
 For OSSU Leaning
