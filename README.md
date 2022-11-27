@@ -1,6 +1,1 @@
-# OSSU
-For OSSU Leaning
-## Progress
-### Into CS
-[] PY4E
-## Notes
+Only those things which can't be find in the documentation will be written here. That's the start point.
